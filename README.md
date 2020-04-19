@@ -12,7 +12,7 @@ Deeplearning.AI | Coursera
 
 All of the code is in Tensorflow and Python 3. The model is trained for object detection using powerful YOLO model!
 
-![](BT.gif)
+![](https://github.com/Ansheel9/Car-Detection/blob/master/nb_images/anchor_map.png)
 
 ---
 
